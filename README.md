@@ -68,7 +68,7 @@ A lista está dividida em três níveis de dificuldade:
 
 ## 📁 Estrutura do Projeto
 
-```
+```bash
 📁 Entrada, Saída e Aritmética Básica/
  ├── ex01.py
  ├── ex02.py
@@ -88,19 +88,21 @@ A lista está dividida em três níveis de dificuldade:
  └── ex30.py
 
 📄 README.md
+📄 LICENSE
 📄 lista_original.pdf
 ```
 
-Cada pasta representa um nível da lista de exercícios:
+Cada pasta representa um conjunto de exercícios organizado por nível:
 
-* 🔹 **Nível 1** → Entrada, saída e aritmética básica (ex01–ex10)
-* 🔹 **Nível 2** → Atribuições e fórmulas (ex11–ex20)
-* 🔹 **Nível 3** → Operadores lógicos e relacionais (ex21–ex30)
+* 🔹 **Entrada, Saída e Aritmética Básica** → exercícios 01 a 10
+* 🔹 **Atribuições Complexas e Fórmulas** → exercícios 11 a 20
+* 🔹 **Operadores Relacionais e Lógicos** → exercícios 21 a 30
 
 Cada arquivo contém:
 
 * 📌 Enunciado do exercício
 * 💻 Implementação em Python
+
 
 
 ---
