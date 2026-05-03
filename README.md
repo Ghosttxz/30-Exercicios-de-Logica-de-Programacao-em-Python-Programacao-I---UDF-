@@ -158,4 +158,5 @@ Estudante de Ciência da Computação
 
 ## 📄 Licença
 
-Uso acadêmico e educacional.
+Este projeto está sob a licença MIT.  
+Consulte o arquivo LICENSE para mais detalhes.
